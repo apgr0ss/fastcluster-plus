@@ -1,0 +1,12 @@
+{
+"tol_dict": {
+    "var1": {
+        "col_name":  ,
+        "weight":
+    }
+},
+"eps": ,
+"cluster_method": "fastcluster",
+"partition_vars": [],
+"datevar": ""
+}
