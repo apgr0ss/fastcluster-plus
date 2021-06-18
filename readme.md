@@ -51,6 +51,7 @@ Below is a skeleton ``config.json``
 - ``datevar`` is the name of the variable that corresponds to a date (e.g., date the record was submitted). If there is no date variable, the value should remain an empty string.
 
 __Read in raw data__
+
 If the raw dataset is stored locally as a ``.csv``, this step is simple. Move the file to the ``raw_data`` subdirectory.
 
 Otherwise, if you wish to query data from a SQL server you first need to write the query. __Note that the program is compatible only with PostgreSQL servers__. Create a new ``.txt`` file and write the query in the form of
