@@ -1,4 +1,4 @@
-# fastcluster+ (working title)
+# fastcluster+
 
 ## About
 fastcluster+ is an interface to perform complex fuzzy matching on cross-sectional datasets that contain numerical and categorical data. In essence, it provides a project template and wrapper functions optimized to perform comprehensive, large-scale fuzzy matching using the methods provided by the ``fastcluster`` library ([link](https://github.com/dmuellner/fastcluster)).
